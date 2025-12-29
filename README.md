@@ -13,4 +13,3 @@ This project demonstrates a fully functional enterprise network designed in Cisc
 ## 🧪 Verification & Testing
 * **SSH Management:** Staff devices successfully access the router via SSH, while Guest attempts are "Connection Refused" by ACLs.
 * **Connectivity:** Verified end-to-end communication between the Branch and the HQ Server.
-Download the Packet Tracer Lab File (.pkt)](https://github.com/Ebunoluwa-D/Cisco-Enterprise-Network-Lab./blob/main/labs/Branch_office_hardened.pkt)
