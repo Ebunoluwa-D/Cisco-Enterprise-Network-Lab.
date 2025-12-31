@@ -1,4 +1,12 @@
 # Cisco Enterprise Network Lab
+📥 How to Download the Lab
+To run this lab in Cisco Packet Tracer:
+
+Click the green Code button at the top of this page.
+
+Select Download ZIP.
+
+Extract the folder and open the .pkt file in Packet Tracer (Version 8.2+ recommended).
 
 ##  Project Overview
 This project demonstrates a fully functional enterprise network designed in Cisco Packet Tracer. It features a hardened Branch Office connected to an HQ Data Center, focusing on security, scalability, and redundancy.
